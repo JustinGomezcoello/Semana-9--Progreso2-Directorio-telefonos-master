@@ -1,0 +1,1 @@
+void calculos(char nombre[4][25], char cedula[4][25], char cedula2[25], char telefono[4][25]);
